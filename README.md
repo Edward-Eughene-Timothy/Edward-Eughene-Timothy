@@ -26,7 +26,7 @@ I’m an undergraduate AI Engineering student driven by curiosity and creativity
 ### 🚧 Ongoing Projects
 
 - 🏎️ **Self-Driving Car Agent** — PPO-trained agent in CarRacing-v3 using visual inputs  
-- 🧠 **Local AI Waifu Assistant** — Custom LLM companion using Gemma + Unsloth  
+- 🧠 **Local AI Assistant** — Custom LLM companion using Gemma + Unsloth  
 - 🚦 **Smart Traffic Controller** — RL-driven traffic light simulation in Python  
 - 📊 **Academic R Toolkit** — R solutions and visualizations for coursework  
 
