@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Edward Eughene Timothy
+ # 👋 Hello, I’m Edward Eughene Timothy
 
 ![Fedora Linux](https://img.shields.io/badge/Linux-Fedora-blue?logo=fedora)
 ![Field: AI Engineering](https://img.shields.io/badge/Focus-AI%20Engineering-orange)
@@ -27,8 +27,6 @@ I’m an undergraduate AI Engineering student driven by curiosity and creativity
 
 - 🏎️ **Self-Driving Car Agent** — PPO-trained agent in CarRacing-v3 using visual inputs  
 - 🧠 **Local AI Assistant** — Custom LLM companion using Gemma + Unsloth  
-- 🚦 **Smart Traffic Controller** — RL-driven traffic light simulation in Python  
-- 📊 **Academic R Toolkit** — R solutions and visualizations for coursework  
 
 ---
 
